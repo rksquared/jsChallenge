@@ -1,0 +1,26 @@
+{
+  "name": "jschallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^1.6.7",
+    "d3": "^4.12.0",
+    "echarts": "^3.8.5",
+    "jsdom": "^11.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rksquared/jsChallenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rksquared/jsChallenge/issues"
+  },
+  "homepage": "https://github.com/rksquared/jsChallenge#readme"
+}
